@@ -1,0 +1,6 @@
+web3
+requests
+python-dotenv
+psutil
+Flask
+python-telegram-bot
